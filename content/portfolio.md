@@ -24,7 +24,7 @@
 
 | Compétence (réf. + intitulé) | La preuve (quoi, quand, sous quelle forme) | Ce que j'ai décidé (un choix, et pourquoi) | Écrit, audio, images, etc. (où la retrouver, ou perdue) | 
 |---|---|---|---|
-| Compétence 1 |  |  |  |
+| Compétence 1 | à Marseille, sous la forme d'un camp de terrain | ça démontre mes capacités d'analyse d'une ville en l'étudiant in situ | site web sur ArcGis |
 | Compétence 2  |  |  |  |
 |  Compétence 3 |  |  |  |
 |  Compétence 4 (hors cursus) |  |  |  |
